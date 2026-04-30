@@ -8,6 +8,12 @@ body {
     background-color: #f9f9f9;
     color: #333;
 }
+h1, p, img {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 /* Headings */
 h1, h2, h3 {
