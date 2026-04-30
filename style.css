@@ -8,6 +8,13 @@ body {
     background-color: #1e1e1e;
     color: #e6e6e6;
 }
+a {
+    color: #4da3ff;
+}
+
+a:hover {
+    text-decoration: underline;
+}
 
 /* Centered Hero Section */
 h1, p, img {
